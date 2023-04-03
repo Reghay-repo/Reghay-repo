@@ -1,5 +1,6 @@
                               A passionate software developer with emphasis on building feature rich backend & frontend apps.
-🔭 🔭 I’m currently working on a full stack web app  for real-time analytics and reporting tool<br>👯  I’m looking to collaborate on anything backend,frontend or full stack related apps. <br>🌱 I’m currently learning docker, vuejs 3..etc <br>📄 Know about my experiences on linkedIn<br>📫 How to reach me oussama.reghay.dev@gmail.com
+🔭 🔭 I’m currently working on a full stack web app  for real-time analytics and reporting tool<br>👯  I’m looking to collaborate on anything backend,frontend or full stack related apps. <br>🌱 I’m currently learning docker, vuejs 3..etc <br>📄 Know about my experiences on linkedIn<br>📫 How to reach me oussama.reghay.dev@gmail.com <br>
+this is my portfolio website https://oussama-reghay-portfolio.netlify.app/
 
 
 ## 🌐 Socials:
