@@ -1,5 +1,11 @@
 # 💫 About Me:
-<br>Hello! I'm Oussama, a senior frontend developer with a passion for building robust, scalable applications and the tools that empower developers to do their best work.<br><br>🔭 I'm currently working on: Perfecting scalable frontend architectures using Vue 3 and TypeScript, creating robust developer tools with Node.js, and building innovative mobile apps with Flutter.<br><br>👯 I'm looking to collaborate on: Open-source projects that focus on improving developer experience (DX), especially in the Vue.js, Flutter, or Web Components ecosystem.<br><br>🤝 I'm looking for help with: Exploring advanced CI/CD automation and diving deeper into micro-frontend architectures.<br><br>🌱 I'm currently learning: Flutter and mobile app development, while also exploring how to build and publish framework-agnostic component libraries using Web Components and Lit.<br><br>💬 Ask me about: Vue 3, TypeScript, Pinia, frontend architecture, SSR, Flutter, and building developer tools with Node.js.<br><br>⚡ Fun fact: I believe that a good command-line tool can be as satisfying as a perfectly designed UI.
+<br>Senior Lead Developer with over 5 years of experience specializing in scalable web architectures and high-performance mobile solutions. I focus on technical excellence, maintainability, and creating tools that optimize the developer experience.<br>
+<br>🔭 Current Focus: Scaling Dealiz, a React Native mobile-first platform, and refining AI-driven recruitment workflows for Pintalent.
+<br>
+👯 Collaborate: Open-source DX tools, React Native, or Vue ecosystems.<br>
+🤝 Interests: Advanced CI/CD pipelines and micro-frontend architectures.<br>
+🌱 Learning: React Native performance patterns and framework-agnostic component libraries.💬 Ask me about: React Native, Vue 3, NestJS, and scalable frontend architecture.<br>
+⚡ Fun fact: A robust CLI is just as satisfying as a pixel-perfect UI.
 
 
 ## 🌐 Socials:
